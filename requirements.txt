@@ -1,0 +1,2 @@
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://elements.heroku.com/buildpacks/niteoweb/heroku-buildpack-shell
